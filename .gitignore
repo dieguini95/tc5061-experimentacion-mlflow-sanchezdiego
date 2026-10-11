@@ -1,0 +1,15 @@
+# Base y artefactos locales de MLflow (se regeneran al correr train.py)
+mlflow.db
+mlartifacts/
+mlruns/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
